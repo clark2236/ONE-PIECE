@@ -1,4 +1,4 @@
-Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
+
 body {
     background-color: #000000;
     overflow: hidden;
@@ -29,7 +29,7 @@ main .personagem .imagem {
     height: 100%;
     object-fit: cover;
 }
-git init 
+ 
 .conteudo {
     position: absolute;
     top: 0;
